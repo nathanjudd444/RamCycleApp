@@ -1,0 +1,10 @@
+
+{
+  "name": "RamCycleTracker",
+  "short_name": "CycleTracker",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Track machining cycle progress.",
+  "icons": []
+}
